@@ -62,9 +62,47 @@ Congrats on being sorted into... Hufflepuff!
 ## Magic 8-Ball
 
 The Magic 8-Ball is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s!
+Some example:
+
+```
+MAGIC 8-BALL:
+
+7
+Outlook good.
+```
+
+```
+MAGIC 8-BALL:
+
+4
+You may rely on it.
+```
 
 ## FizzBuzz
 
-Write a fizzbuzz.cpp program that outputs numbers from 1 to 100.
+Fizzbuzz program that outputs numbers from 1 to 100.
 
 But for multiples of 3, print Fizz instead of the number and for the multiples of 5, print Buzz. For numbers which are multiples of both 3 and 5 print, FizzBuzz.
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+```
