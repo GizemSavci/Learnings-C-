@@ -33,4 +33,8 @@ int main() {
   else{
     std::cout << "Yes.\n";
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c954aaed15faed38c51126b47db4d56d1fbb1858
